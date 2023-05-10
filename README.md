@@ -1,4 +1,4 @@
 # JavaScript Projects
-Vanshaj Bhardwaj
+# Vanshaj Bhardwaj
 Projects Made using HTML, CSS and JavaScript
 
